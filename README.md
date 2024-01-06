@@ -5,6 +5,7 @@
   -    1. Emal- debnathrohit97@gmail.com / rohit@technosysfuture.com
        2. Insta- @r0dth
        3. Twitter(X)- @r0dth
+       4. LinkedIn- https://www.linkedin.com/in/rohit-debnath-518201290/
 
 <!---
 Rohit-Dnath/Rohit-Dnath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
