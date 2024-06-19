@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&pause=1000&color=24F74E&vCenter=true&random=false&width=435&lines=Hi,Im+Rohit+Debnath)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&pause=1000&color=24F74E&vCenter=true&random=false&width=435&lines=Hi,Im+Rohit+Debnath)](https://git.io/typing-svg)
 
 <h3 align="center">A passionate Full Stack MERN Developer from India</h3>
 
@@ -8,9 +8,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **NodeJS, React, MongoDB**
-
-- 👨‍💻 All of my projects are available at [https://rohitdnath-protfolio-web.netlify.app/](https://rohitdnath-protfolio-web.netlify.app/)
-
+  
 - 💬 Ask me about **react,node**
 
 - 📫 How to reach me **debnathrohit97@gmail.com**
