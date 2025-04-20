@@ -1,6 +1,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&pause=1000&color=24F74E&vCenter=true&random=false&width=435&lines=Hi,Im+Rohit+Debnath)](https://git.io/typing-svg)
 
+![Rohit](https://github.com/user-attachments/assets/e3f09914-9ca1-4546-bbf0-4b2a4a9e3355)
+
+
 # 💫 About Me:
 🔭 I’m currently working on lolurl.site<br>💬 Ask me about SaaS and Technology<br>⚡ 4x Hackathon Winner<br>🔨 Freelancer<br>👾 Ex. Intern @Styflowne
 
