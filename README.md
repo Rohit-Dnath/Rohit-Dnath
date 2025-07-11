@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&pause=1000&color=24F74E&vCenter=true&random=false&width=435&lines=Hi,Im+Rohit)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&pause=1000&color=24F74E&vCenter=true&random=false&width=435&lines=Hi,I'm+Rohit)](https://git.io/typing-svg)
 
 ![Rohit](https://github.com/user-attachments/assets/580ce971-5965-4d5f-8d63-b648d7eaa07d)
 
