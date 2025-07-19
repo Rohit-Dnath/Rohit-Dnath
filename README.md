@@ -6,7 +6,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on lolurl.site<br>💬 Ask me about SaaS and Technology<br>⚡ 4x Hackathon Winner<br>🔨 Freelancer<br>👾 Ex. Intern @Styflowne
+🔭 I’m currently working on lolurl.site<br>💬 Ask me about SaaS and Technology<br>⚡ 4x Hackathon Winner<br>🔨 Freelancer<br>👾 Ex. Intern @Earnify, lane
 
 
 ## 🌐 Socials:
