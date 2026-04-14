@@ -29,7 +29,7 @@ Docker · Git · Postman
 - Backend-first mindset  
 - Strong API & database design focus  
 - Hackathon finalist & winner  
-- Loves cats 🐱  
+- Loves ducks 🦆
 
 📫 debnathrohit97@gmail.com  
 🌐 https://rohit.wtf
