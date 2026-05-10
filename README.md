@@ -1,3 +1,7 @@
+<p align="left">
+  <img src="https://media.tenor.com/GZyo92WEdcQAAAAM/duck-ducks.gif" width="180" />
+</p>
+
 Hey 👋 I’m Rohit.
 
 Computer Science (AI/ML) undergrad focused on backend engineering and scalable SaaS systems.  
