@@ -22,7 +22,7 @@ Docker · Git · Postman
 ### About
 - Backend-first mindset  
 - Strong API & database design focus  
-- Hackathon finalist & winner  
+- 4x Hackathon winner  
 - Loves ducks 🦆
 
 📫 debnathrohit97@gmail.com  
