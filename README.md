@@ -19,12 +19,6 @@ Docker · Git · Postman
 
 ---
 
-### Projects
-- **LOL URL** — URL shortening platform with real-time analytics  
-- **Goosy** — VS Code extension for secure coding and vulnerability detection  
-
----
-
 ### About
 - Backend-first mindset  
 - Strong API & database design focus  
