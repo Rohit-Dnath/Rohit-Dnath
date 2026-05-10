@@ -4,7 +4,7 @@
 
 Hey 👋 I’m Rohit.
 
-Computer Science (AI/ML) undergrad focused on backend engineering and scalable SaaS systems.  
+Computer Science undergrad focused on backend engineering and scalable SaaS systems.  
 Currently interning at **Intervue.io**, working across backend, product, and research.
 
 I work primarily with Node.js and TypeScript, designing APIs, data models, and backend systems that scale, stay maintainable, and fail gracefully.  
