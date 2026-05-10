@@ -11,7 +11,7 @@ This profile contains backend-heavy projects, experiments, and tools I actively 
 ---
 
 ### Stack
-Node.js · TypeScript · Express  
+Node.js · TypeScript · Express  · GoLang
 MongoDB · PostgreSQL · MySQL  
 Prisma · Drizzle · Supabase  
 React · Next.js · Tailwind  
