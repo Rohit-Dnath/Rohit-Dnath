@@ -31,3 +31,29 @@ Docker · Git · Postman
 
 📫 debnathrohit97@gmail.com  
 🌐 https://rohit.wtf
+
+## 💖 Sponsors
+
+Thanks to the people who support my open-source work. You can join them here:
+
+<p align="left">
+  <a href="https://github.com/sponsors/Rohit-Dnath">
+    <img src="https://img.shields.io/badge/Sponsor%20me%20on%20GitHub-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor on GitHub">
+  </a>
+  &nbsp;
+  <a href="https://wise.com/pay/business/rohitdebnath2?utm_source=open_link">
+    <img src="https://img.shields.io/badge/Support%20via%20Wise-9FE870?style=for-the-badge&logo=wise&logoColor=163300" alt="Support via Wise">
+  </a>
+  &nbsp;
+  <a href="https://buymeacoffee.com/r0dth">
+    <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000000" alt="Buy me a coffee">
+  </a>
+</p>
+
+### Current sponsors
+
+<p align="left">
+  <a href="https://github.com/tchalikanti1705" title="Teja Chalikanti">
+    <img src="https://avatars.githubusercontent.com/u/198486914?v=4" width="64" height="64" style="border-radius:50%" alt="tchalikanti1705">
+  </a>
+</p>
